@@ -1,0 +1,1 @@
+users.map(user=><p key={user.id}>{user.nom} age : {user.age}</p>)
